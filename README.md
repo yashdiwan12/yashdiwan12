@@ -17,7 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yash-diwan-97b672282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash diwan" height="30" width="40" /></a>
-<a href="mailto:diwanyash12@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="yash-diwan-email" height="30" width="40" /></a>
+<a href="mailto:diwanyash12@gmail.com" target="blank"><img align="center" src="<img width="1017" height="786" alt="image" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" />
+" alt="yash-diwan-email" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
