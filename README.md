@@ -57,5 +57,5 @@
   "ML Stack": ["TensorFlow", "Keras", "Scikit-learn", "SciPy"],
   "Computer Vision": ["OpenCV", "GLCM"],
   "Data": ["NumPy", "Pandas", "Matplotlib"],
-  "Web": ["HTML5", "Firebase"]
+  "Web": ["HTML5"]
 }
