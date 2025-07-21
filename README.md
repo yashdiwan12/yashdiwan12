@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/code.svg" width="28px"> Yash Diwan  
-**`ML Engineer | AI Researcher | GDSC Core Member`**  
+**`ML Engineer | AI Researcher | GDGC Core Member`**  
 
 <p align="left">
   <a href="http://www.linkedin.com/in/yash-diwan-97b672282">
