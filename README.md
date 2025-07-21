@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **DSA, AWS**
 
-- 👯 I’m looking to collaborate on **Fast API**
+- 👯 I’m looking to collaborate on **ML Projects**
 
-- 🤝 I’m looking for help with **DSA**
+- 🤝 I’m looking for help with **DSA, Fast API**
 
 - 💬 Ask me about **ML**
 
