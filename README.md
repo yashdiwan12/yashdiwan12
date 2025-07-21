@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Yash Diwan</h1>
 <h3 align="center">A passionate ML Engineer</h3>
 
+<p align="right">
+  <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="400">
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdiwan12&label=Profile%20views&color=0e75b6&style=flat" alt="yashdiwan12" /> </p>
 
 - 🌱 I’m currently learning **DSA, AWS**
