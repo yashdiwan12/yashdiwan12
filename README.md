@@ -7,21 +7,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdiwan12&label=Profile%20views&color=0e75b6&style=flat" alt="yashdiwan12" /> </p>
 
-- 🌱 I’m currently learning **DSA, AWS**
-
-- 👯 I’m looking to collaborate on **ML Projects**
-
-- 🤝 I’m looking for help with **DSA, Fast API**
-
+- 🌱 I'm currently learning **DSA, AWS**
+- 👯 I'm looking to collaborate on **ML Projects**
+- 🤝 I'm looking for help with **DSA, Fast API**
 - 💬 Ask me about **ML**
-
 - 📫 How to reach me **diwanyash12@gmail.com**
-
 - ⚡ Fun fact **I think I have great humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yash-diwan-97b672282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash diwan" height="30" width="40" /></a>
+<a href="mailto:diwanyash12@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="yash-diwan-email" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
