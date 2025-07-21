@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yash Diwan</h1>
 <h3 align="center">A passionate ML Engineer</h3>
 
-<p align="right">
+<p align="center">
   <img src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" width="200">
 </p>
 
