@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Yash Diwan</h1>
-<h3 align="center">A passionate ML Engineer</h3>
+<h3 align="center">An Aspiring ML Engineer</h3>
 
 <p align="center">
   <img src="https://indusuni.ac.in/uploads/blogs/iite/Understanding%20the%20Hype%20Around%20Machine%20Learning.gif" width="300">
