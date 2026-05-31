@@ -3,10 +3,6 @@
 <h1 align="center">Hi, I'm Yash Diwan</h1>
 <h3 align="center">An Aspiring ML Engineer</h3>
 
-<p align="center">
-  <img src="https://indusuni.ac.in/uploads/blogs/iite/Understanding%20the%20Hype%20Around%20Machine%20Learning.gif" width="300">
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashdiwan12&label=Profile%20views&color=0e75b6&style=flat" alt="yashdiwan12" /> </p>
 
 - 🌱 I'm currently learning **DSA, AWS**
