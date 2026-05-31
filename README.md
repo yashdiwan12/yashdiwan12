@@ -2,10 +2,8 @@
 <h1 align="center">Hi, I'm Yash Diwan</h1><br><h3 align="center">An Aspiring ML Engineer</h3><br>
 
 - 🌱 I'm currently learning **DSA, AWS**
-- 👯 I'm looking to collaborate on **ML Projects**
-- 💬 Ask me about **ML**
+- 👯 I love building **new Solutions**
 - 📫 How to reach me **diwanyash12@gmail.com**
-- ⚡ Fun fact **I think I have great humour**
 
 </a>
 </p>
