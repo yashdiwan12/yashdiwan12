@@ -35,5 +35,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/diwanyash) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diwanyash12@gmail.com) 
 
 
-## 🤝 Connect With Me
-* 📧 **Email:** ashwaniarya2009@gmail.com
+## Connect With Me
+* 📧 **Email:** diwanyash12@gmail.com
