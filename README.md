@@ -1,6 +1,6 @@
 # Hi I am Yash Diwan
 
-**B.Tech CSE @ VIT Bhopal (GPA: 8.66)| AI/ML Engineer | Data & Analytics **
+B.Tech CSE @ VIT Bhopal (GPA: 8.66)| AI/ML Engineer | Data & Analytics
 
 ## About Me
 
