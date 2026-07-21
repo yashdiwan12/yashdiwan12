@@ -8,7 +8,7 @@ B.Tech CSE @ VIT Bhopal (GPA: 8.66)| AI/ML Engineer | Data & Analytics
 * 🌐 Experienced in Machine Learning
 * 🤖 Exploring Agile Methodologies & Agile Frameworks
 * ⚙️ Focused on building scalable and optimized solutions
-
+* My Portfolio Website: https://yashdiwan.vercel.app/
 ---
 
 ## 💻 Tech Stack:
